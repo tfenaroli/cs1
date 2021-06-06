@@ -1,0 +1,3 @@
+Extra credit:
+1. Randomized pivot
+2. Larger display with name of each city instead of just a dot
