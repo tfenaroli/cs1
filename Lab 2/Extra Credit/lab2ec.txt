@@ -1,0 +1,3 @@
+My extra credit features are:
+1. Custom images for the background, Sun, Mars, Venus, Earth, and Mercury.
+2. If you press the "a" key, a moon generates with a random distance from the sun and a random initial y velocity. The generated moons operate the same way that the initial five bodies do.
