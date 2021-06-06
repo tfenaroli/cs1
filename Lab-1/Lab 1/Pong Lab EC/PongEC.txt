@@ -1,7 +1,0 @@
-Extra credit features:
-1. Images for background, ball, and paddles
-2. Color change of ball upon paddle contact
-3. Random initial direction of ball
-4. Random bounce direction off of paddles
-
-Thomas Fenaroli
