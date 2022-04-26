@@ -1,0 +1,15 @@
+How many items in the list? 15
+The list: [3, 24, 24, 30, 86, 248, 335, 411, 440, 453, 503, 555, 846, 848, 976]
+What value to search for? ('?' to see the list, 'q' to quit): 555
+555 found at index 11
+What value to search for? ('?' to see the list, 'q' to quit): 248
+248 found at index 5
+What value to search for? ('?' to see the list, 'q' to quit): 336
+336 not found
+What value to search for? ('?' to see the list, 'q' to quit): 976
+976 found at index 14
+What value to search for? ('?' to see the list, 'q' to quit): 1000
+1000 not found
+What value to search for? ('?' to see the list, 'q' to quit): 1
+1 not found
+What value to search for? ('?' to see the list, 'q' to quit): 

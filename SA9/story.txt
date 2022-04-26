@@ -1,0 +1,23 @@
+START| KEEP_WALKING, HOUSE| You were strolling through the woods on a sunny afternoon and got lost. You come across a house. Do you a) keep walking or b) walk into the house?
+
+KEEP_WALKING|| You don't find civilization. The end.
+
+HOUSE| ROOF_FALLS, POISONED| You walk into the house and find a cup of coffee. You are very sleepy.  Do you a) sit down on the chair and take a nap or b) drink the coffee?
+
+ROOF_FALLS| RUN, STAY, HIDE| The roof falls while you are sleeping. Do you a) run away or b) stay in the house or c) hide in the house
+
+POISONED|| The coffee was poisoned. The end.
+
+RUN|| You trip and fall. The end.
+
+STAY|| The roof crushes you. The end.
+
+HIDE| SWIM, CLIMB| You successfully avoid the falling roof. You go outside. Do you a) swim in the river or b) climb the near mountain
+
+SWIM|| You drown. The end.
+
+CLIMB| RUN, RIDE| You see civilization far away. Do you a) walk to it or b) ride a grizzly bear
+
+WALK|| You trip. The end.
+
+RIDE|| You make it to civilization and live. The end.
